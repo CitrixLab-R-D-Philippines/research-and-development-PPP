@@ -1,6 +1,6 @@
 # research-and-development-PPP
 
-Abstract:
+# Abstract:
 
 This study investigates the impact of government support for research and development (R&D) on the economic growth and innovation performance of the Philippines. Drawing upon academic literature and economic data, the research aims to provide insights into the effectiveness of R&D investments in driving sustainable development in the Philippine region.
 
@@ -10,7 +10,7 @@ Building upon existing academic works, including studies by David, C. C., & Laur
 
 Through econometric analysis and case studies of successful R&D initiatives in the Philippines, the research identifies best practices and policy recommendations for enhancing the impact of R&D investments on economic development. The findings of this study are expected to inform policymakers, government agencies, and industry stakeholders on strategies to promote sustainable growth, technological advancement, and innovation-driven competitiveness in the Philippine region.
 
-References:
+# References:
 
 1. David, C. C., & Laurino, R. (2019). The Effects of Research and Development Expenditures on Philippine Economic Growth: Evidence from a Cointegration Analysis. Asian Journal of Applied Economics, 8(2), 19-30.
 
